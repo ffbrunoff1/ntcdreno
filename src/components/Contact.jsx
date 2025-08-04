@@ -66,14 +66,6 @@ export default function Contact() {
       bgColor: "bg-blue-100"
     },
     {
-      icon: MessageCircle,
-      title: "WhatsApp",
-      content: "Fale conosco agora",
-      action: () => window.open('https://wa.me/551152424280?text=Olá! Gostaria de saber mais sobre os tubos dreno PEAD corrugados.'),
-      color: "text-green-600",
-      bgColor: "bg-green-100"
-    },
-    {
       icon: MapPin,
       title: "Localização",
       content: "São Paulo, SP",
